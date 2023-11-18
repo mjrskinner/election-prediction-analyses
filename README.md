@@ -1,0 +1,2 @@
+# election-prediction-analyses
+A collection of political forecasting models, starting with something made in Reed College's intro to american politics course.  The reason this project's results are counterintuitive is because the assignment was designed to make data collection easy.  The R^2 value is not competitive with other models, and the coefficient for consumer confidence is negative, which does not make sense.  If I come back to this in the future, I'll add more variables and possibly change the "y" variable to reflect what is done in recent, better performing models.
